@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-This is my homepage for now
+Welcome to archive of my projects. 
 
-[[Fields\|Fields]]
+Hope you're gonna enjoy it.
 
