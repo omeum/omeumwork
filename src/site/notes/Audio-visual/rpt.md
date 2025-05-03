@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual"],"permalink":"/audio-visual/rpt/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/rpt/","tags":["audio-visual"]}
 ---
 
 You have likely experienced the feeling that something has already happened, or that a situation is repeating itself. This phenomenon  is known as Déjà vu, and it is the inspiration for my project,  

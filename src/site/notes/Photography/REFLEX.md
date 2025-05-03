@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["photography","animation","audio-visual"],"permalink":"/photography/reflex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/photography/reflex/","tags":["photography","animation","audio-visual"]}
 ---
 
 I focused on working with mirrors and laser beams, but also paid attention to how reflection, or 

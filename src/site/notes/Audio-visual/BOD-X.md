@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual","instalation"],"permalink":"/audio-visual/bod-x/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/bod-x/","tags":["audio-visual","instalation"]}
 ---
 
 Bod - x originated as a graduation project. It all started with the idea that just as we influence the environment around us, the environment also influences us.Based on this idea, this project began to take shape.

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual","sound"],"permalink":"/audio-visual/beat-of-anthropocene/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/beat-of-anthropocene/","tags":["audio-visual","sound"]}
 ---
 
 The discovery, creation, dissemination, and everything associated with it is wonderful. We should create and discover, but we should also look around us. Don't we sometimes demand too much from our surroundings, the environment, and indeed the entire Earth? I have  a simple answer to this question: Yes, we do.  

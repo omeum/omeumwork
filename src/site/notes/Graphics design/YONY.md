@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["graphic-design"],"permalink":"/graphics-design/yony/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/graphics-design/yony/","tags":["graphic-design"]}
 ---
 
 Logo design for industrial designer Jonáš Strahcoň, who presents his work udner YONY design.

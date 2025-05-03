@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["vj"],"permalink":"/vj/live-v-jing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/vj/live-v-jing/","tags":["vj"]}
 ---
 
 Live VJing at shows.

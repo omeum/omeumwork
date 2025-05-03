@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["3D"],"permalink":"/3-d/life-in-cages/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-d/life-in-cages/","tags":["3D"]}
 ---
 
 This is about a generative object that represents the concept of life  

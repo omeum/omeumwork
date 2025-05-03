@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual","3D"],"permalink":"/audio-visual/scan-diary/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/scan-diary/","tags":["audio-visual","3D"]}
 ---
 
 Scan Diary is a project based on research of possibilities of processing 3D scans. 

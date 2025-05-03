@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["graphic-design"],"permalink":"/graphics-design/gen-b/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/graphics-design/gen-b/","tags":["graphic-design"]}
 ---
 
 Gen-b is a pop-up accordion book that strives to connect the harsh features of brutalism with generative art. I decided to create the individual prints, which we can see on the pop-ups of the buildings, using geometric nodes. The result is generative prints that change or animate according to the change in values in the network of nodes or in real-time.  

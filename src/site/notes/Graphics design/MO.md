@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["graphic-design"],"permalink":"/graphics-design/mo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/graphics-design/mo/","tags":["graphic-design"]}
 ---
 
 This is a logo that I created for myself. Along with the logo, I made  a 3D object. Given my strong relationship with music, the model is inspired by vinyl records and an equalizer. Another feature of the entire logo/object is that it is audio-reactive. Using TouchDesigner,  

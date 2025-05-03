@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["graphic-design"],"permalink":"/graphics-design/who-asked/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/graphics-design/who-asked/","tags":["graphic-design"]}
 ---
 
 Logo design for folk/rock/indie band called Who asked ???.

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual","sound"],"permalink":"/audio-visual/dosimeter/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/dosimeter/","tags":["audio-visual","sound"]}
 ---
 
 Interactive projection based on noise pollution and its surrounding in our daily lives.

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"tags":["audio-visual","graphic-design"],"permalink":"/audio-visual/home-escape-end/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/audio-visual/home-escape-end/","tags":["audio-visual","graphic-design"]}
 ---
 
 Small java project.
