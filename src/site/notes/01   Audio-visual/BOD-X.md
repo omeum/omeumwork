@@ -4,9 +4,10 @@
 
 Created: [[Years/2023\|2023]]
 Areas: [[Areas/3D\|3D]] [[Areas/Audio-visual\|Audio-visual]] [[Areas/Animation\|Animation]] [[Areas/3D Scaning\|3D Scaning]] [[Areas/Instalation\|Instalation]]
-Programs used: [[Programs/Blender\|Blender]] [[Programs/Scaniverse\|Scaniverse]]
-Exhibitions: Prototyp, Brno | 
+Programs used: [[Programs/Blender\|Blender]] [[Programs/Scaniverse\|Scaniverse]] 
+Exhibitions: Prototyp, Brno 2024 | 
 
+----
 Bod - x originated as a graduation project. It all started with the idea that just as we influence the environment around us, the environment also influences us.Based on this idea, this project began to take shape.
 
 It is a light/projection installation for which I used tulle canvases and plexiglass to achieve layered projection images.
@@ -20,8 +21,8 @@ Bod - x vznikl jako maturitní práce. Všechno to začalo u myšlenky, že stej
   
 Jedná se o světlenou/projekční instalaci, při které jsem použila tylové plátna a plexiskla abych dosáhla vrstvení projekčních obrazů.   
   
-Animace se odehrává v prostorách mé teď již bývalé střední školy. Budova Střední uměleckoprůmyslové školy má dlouhou a ne vždy veselou historii. Atmosféra budovy se měnila společně se změnou lidí. Z nepříjemného potemnělého místa se stala uměleckou školou, která je bezpečným místem pro spoustu jejích studentů. Siluety  
-v animaci znázorňují jak pozitivní i negativní osoby, které prošli budovou. Distorce prostoru ztvárňuje změnu prostředí školy, která však v základech zůstala vždy stejná.  
+Animace se odehrává v prostorách mé teď již bývalé střední školy. Budova Střední uměleckoprůmyslové školy má dlouhou a ne vždy veselou historii. Atmosféra budovy se měnila společně se změnou lidí. Z nepříjemného potemnělého místa se stala uměleckou školou, která je bezpečným místem pro spoustu jejích studentů. Siluety v animaci znázorňují jak pozitivní 
+i negativní osoby, které prošli budovou. Dystorce prostoru ztvárňuje změnu prostředí školy, která však v základech zůstala vždy stejná.  
   
 Celá instalace má na diváka působit subjektivně. Zážitek, který si z ní divák odnese záleží pouze na tom jak tento celek bude vnímat a jak na něj bude působit.
 
@@ -29,5 +30,11 @@ Celá instalace má na diváka působit subjektivně. Zážitek, který si z ní
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/QK_uuS9yjbo?si=8n46zGtneCrpFpGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![_MG_0006.png](/img/user/imgs/_MG_0006.png)
-![_MG_0030.png](/img/user/imgs/_MG_0030.png)
+![_MG_0006.png](/img/user/imgs/BOD-X/_MG_0006.png)
+![_MG_0030.png](/img/user/imgs/BOD-X/_MG_0030.png)
+![_MG_0036.png](/img/user/imgs/BOD-X/_MG_0036.png)
+![_MG_0041.png](/img/user/imgs/BOD-X/_MG_0041.png)
+![_MG_0054.png](/img/user/imgs/BOD-X/_MG_0054.png)
+![_MG_0057.png](/img/user/imgs/BOD-X/_MG_0057.png)
+![_MG_0060.png](/img/user/imgs/BOD-X/_MG_0060.png)
+![_MG_0097.png](/img/user/imgs/BOD-X/_MG_0097.png)
