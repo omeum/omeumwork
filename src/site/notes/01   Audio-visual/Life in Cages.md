@@ -3,7 +3,7 @@
 ---
 
 Created: [[Years/2024\|2024]]
-Medium: [[Animation\|Animation]] [[Areas/Audio-visual\|Audio-visual]]
+Medium: [[Areas/Animation\|Animation]] [[Areas/Audio-visual\|Audio-visual]]
 Programs used: 
 
 This is about a generative object that represents the concept of life  
