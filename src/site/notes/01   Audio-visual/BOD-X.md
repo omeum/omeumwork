@@ -28,6 +28,6 @@ Celá instalace má na diváka působit subjektivně. Zážitek, který si z ní
 ----
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/QK_uuS9yjbo?si=8n46zGtneCrpFpGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![[_MG_0006.png \| 300]] ![[_MG_0030.png \| 300]] ![[_MG_0036.png \| 500]]
-![[_MG_0041.png \| 300]]![[_MG_0097.png \| 300]]![[_MG_0054.png \| 300]] ![[_MG_0057.png \| 300]] 
-[[_MG_0060.png \| 300]] 
+
+![_MG_0006.png](/img/user/imgs/_MG_0006.png)
+![_MG_0030.png](/img/user/imgs/_MG_0030.png)
