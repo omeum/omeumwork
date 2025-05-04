@@ -3,7 +3,7 @@
 ---
 
 Created: [[Years/2024\|2024]]
-Medium: [[Areas/Audio-visual\|Audio-visual]][[Areas/Reactive\|Reactive]]
+Areas: [[Areas/Audio-visual\|Audio-visual]][[Areas/Reactive\|Reactive]]
 Programs used: [[Programs/Touchdesigner\|Touchdesigner]] [[Programs/Resolume Arena\|Resolume Arena]]
 Exhibitions: LUFT, Ostrava 2024 |
 
