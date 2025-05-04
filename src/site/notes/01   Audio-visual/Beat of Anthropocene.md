@@ -6,6 +6,8 @@ Created: [[Years/2023\|2023]]
 Areas: [[Areas/Audio-visual\|Audio-visual]] [[Instalation\|Instalation]] [[Projection\|Projection]] [[Reactive\|Reactive]] 
 Programs used: [[Touchdesigner\|Touchdesigner]]
 
+----
+
 The discovery, creation, dissemination, and everything associated with it is wonderful. We should create and discover, but we should also look around us. Don't we sometimes demand too much from our surroundings, the environment, and indeed the entire Earth? I have  a simple answer to this question: Yes, we do.  
 Since I have a strong relationship with music, I would somewhat compare it to the idea that every song must be balanced because  if it's not, it often turns into chaos. I would say that the entire project somewhat stands on this idea.  
 You may notice that it involves an object based on organic matter resembling a liquid or a cell. This object then reacts to playing on electronic drums, creating a generative animation.  
