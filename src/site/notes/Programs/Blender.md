@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/programs/blender/"}
 ---
 
-[[Audio-visual/SCAN DIARY\|SCAN DIARY]] 
-[[Audio-visual/BOD-X\|BOD-X]]
-[[Graphics design/MO\|MO]]
-[[VJ/Chryzotil271\|Chryzotil271]]
+[[01   Audio-visual/SCAN DIARY\|SCAN DIARY]] 
+[[01   Audio-visual/BOD-X\|BOD-X]]
+[[02   Graphics design/MO\|MO]]
+[[04   VJ/Chryzotil271\|Chryzotil271]]

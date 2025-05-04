@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/areas/audio-visual/"}
 ---
 
-[[Audio-visual/SCAN DIARY\|SCAN DIARY]]
-[[Audio-visual/home.escape.end\|home.escape.end]]
-[[Audio-visual/Dosimeter\|Dosimeter]]
-[[Audio-visual/Organic fields\|Organic fields]]
-[[Audio-visual/Beat of Anthropocene\|Beat of Anthropocene]]
-[[Audio-visual/Peklo (Hell)\|Peklo (Hell)]]
-[[Audio-visual/BOD-X\|BOD-X]]
-[[Audio-visual/rpt\|rpt]]
+[[01   Audio-visual/SCAN DIARY\|SCAN DIARY]]
+[[01   Audio-visual/home.escape.end\|home.escape.end]]
+[[01   Audio-visual/Dosimeter\|Dosimeter]]
+[[01   Audio-visual/Organic fields\|Organic fields]]
+[[01   Audio-visual/Beat of Anthropocene\|Beat of Anthropocene]]
+[[01   Audio-visual/Peklo (Hell)\|Peklo (Hell)]]
+[[01   Audio-visual/BOD-X\|BOD-X]]
+[[01   Audio-visual/rpt\|rpt]]
