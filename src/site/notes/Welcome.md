@@ -22,4 +22,5 @@ Hope you're gonna enjoy it.
 omeum.av@gmail.com
 [Instagram](https://www.instagram.com/omeum_/)
 
+**Powered by Obsidian Vault and Digital Garden**
 
