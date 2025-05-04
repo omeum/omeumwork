@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-audio-visual/bod-x/","tags":["audio-visual","instalation"]}
+{"dg-publish":true,"permalink":"/01-audio-visual/bod-x/"}
 ---
 
 Created: [[Years/2023\|2023]]
