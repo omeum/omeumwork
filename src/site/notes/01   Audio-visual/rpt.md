@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-audio-visual/rpt/","tags":["audio-visual"]}
+{"dg-publish":true,"permalink":"/01-audio-visual/rpt/"}
 ---
 
 Created: [[Years/2022\|2022]]
